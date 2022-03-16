@@ -1,0 +1,2 @@
+Vehicle #2: [2011, Dodge, Grand Caravan, White, 85000]
+Vehicle #1: [2003, Mazda, Miata, Blue, 123456]
