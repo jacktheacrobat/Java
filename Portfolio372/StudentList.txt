@@ -1,0 +1,22 @@
+Sorted Student List
+----------------------
+Name: 		Arty Shore
+Address: 	834 rd
+GPA: 		2.7
+
+Name: 		Billy Bob
+Address: 	543 st
+GPA: 		2.1
+
+Name: 		Jack Peters
+Address: 	123 rd 
+GPA: 		3.5
+
+Name: 		Kerry L
+Address: 	525 lane
+GPA: 		0.0
+
+Name: 		Zoe May
+Address: 	663 crt
+GPA: 		4.0
+
